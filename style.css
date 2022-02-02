@@ -1,0 +1,20 @@
+h1 {
+    font-size: 5em;
+    margin-left: 31vw;
+}
+
+#profile_pic {
+    height: 400px;
+    margin-left: 35vw;
+}
+
+.social_icon {
+    height: 50px;
+}
+.content{
+    margin-left:35vw;
+}
+
+body {
+    background-color: rgb(253, 240, 222);
+}
